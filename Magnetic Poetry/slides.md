@@ -41,7 +41,7 @@ Apart from particular language concepts, I'd want to make sure students could ta
 
 # Foreknowledge
 
-Finally, I'd want them to know about magnetic poetry (the concept) and to have watched this [demo video](</Magnetic Poetry.webm>) of the code running. 
+Finally, I'd want them to know about magnetic poetry (the concept) and to have watched this [demo video](https://github.com/mrjloswald/Lesson-Plans/blob/main/Magnetic%20Poetry/Magnetic%20Poetry.webm) of the code running. 
 
 ---
 
