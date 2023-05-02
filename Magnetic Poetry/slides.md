@@ -59,7 +59,7 @@ Here I'd like the students to make observations about the individual words, perh
 
 # Provocation 1
 
-I'd also be hoping that the observation that the individual words and the groups of combined words are the same. 
+I'd also be hoping that the observation that the groups _behave_ similarly (the same) as the individual words do and that the word groups are composed of words. 
 
 ---
 
@@ -71,7 +71,7 @@ I'd also be hoping that the observation that the individual words and the groups
 
 # Details
 
-Here I am looking for speculation where we have multiple arrays representing the various identified properties by word, or an array of arrays (largely language dependent), as well as a mess of accompanying functions. I might here project some pseudocode that the class generates as the discussion evolves. 
+Here I am looking for speculation about how they might achieve this using existing knowledge. Possibilities are multiple arrays– one for every property by word, or an array of arrays (largely language dependent), as well as a mess of accompanying functions. I might here project some pseudocode that the class generates as the discussion evolves. 
 
 ---
 
@@ -83,13 +83,13 @@ Here I am looking for speculation where we have multiple arrays representing the
 
 # Provocation 2
 
-Here I'd hope things like having to reference multiple arrays or having to develop a 2D array approach
+Here I'd hope things like having to reference multiple arrays or having to develop a 2D array approach emerge. I'd continue to project and watch the pseudocode develop.
 
 ---
 
 # Provocation 3
 
-### What would a be a more natural way to code the solution (speculate)
+### What would a be a more natural way to code the solution (speculate)?
 
 ---
 
